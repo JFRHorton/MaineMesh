@@ -4,6 +4,7 @@ This network provides text messaging, group chats, and weather sensing across th
 
 ## Contact
 [MaineMeshNet@gmail.com](mailto:MaineMeshNet@gmail.com)
+
 [Facebook]()
 
 ## Getting Started
@@ -11,9 +12,9 @@ This guide assumes you already have a Meshtastic-capable device and have complet
 For an in-depth guide, check out the [Official Meshtastic Getting Started Guide](https://meshtastic.org/docs/getting-started/)
 
 MaineMesh uses 915MHz LoRa radios. While any compatible radio will work, our current favorites are:
--[The WisMesh pocket for turnkey portable use](https://store.rokland.com/collections/kits/products/wismesh-pocket)
--[The RAKWireless WisBlock starter Kit for DIY-ers](https://store.rokland.com/collections/kits/products/rak-wireless-wisblock-meshtastic-starter-kit)
--[The RAKWireless Mini for Routers and solar nodes](https://store.rokland.com/products/rakwireless-mini-meshtastic-starter-kit-us915-rak19003-4631-sku-115093?variant=42139276247123)
+- [The WisMesh pocket for turnkey portable use](https://store.rokland.com/collections/kits/products/wismesh-pocket)
+- [The RAKWireless WisBlock starter Kit for DIY-ers](https://store.rokland.com/collections/kits/products/rak-wireless-wisblock-meshtastic-starter-kit)
+- [The RAKWireless Mini for Routers and solar nodes](https://store.rokland.com/products/rakwireless-mini-meshtastic-starter-kit-us915-rak19003-4631-sku-115093?variant=42139276247123)
 
 While the default Long Fast channel is present on most nodes, we have a Maine-specific channel. This can be added with the following QR code:
 ![QR Code for MaineMesh MaineNet channel](/channels/mainenet.jpg)
