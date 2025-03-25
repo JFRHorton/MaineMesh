@@ -5,7 +5,7 @@ This network provides text messaging, group chats, and weather sensing across th
 ## Contact
 [MaineMeshNet@gmail.com](mailto:MaineMeshNet@gmail.com)
 
-[Facebook]()
+[Facebook](https://www.facebook.com/groups/570190336078767)
 
 ## Getting Started
 This guide assumes you already have a Meshtastic-capable device and have completed some basic setup.
