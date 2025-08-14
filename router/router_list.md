@@ -2,4 +2,5 @@
 | ------------------ | ------------- |--------------|------------------------|---------------|
 | MaineMeshRouter01  | Limington     | Y            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
 | MaineMeshRouter02  | Shapleigh     | N            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
-| MaineMeshRouter03  | Raymond       | N            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
+| MaineMeshRouter03  | Raymond       | Y            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
+
