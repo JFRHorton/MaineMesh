@@ -10,6 +10,8 @@ This network provides text messaging, group chats, and weather sensing across th
 
 [Facebook](https://www.facebook.com/groups/570190336078767)
 
+[Discord](https://discord.gg/Dh75aSAn)
+
 ## Getting Started
 This guide assumes you already have a Meshtastic-capable device and have completed some basic setup.
 
