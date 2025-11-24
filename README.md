@@ -12,6 +12,9 @@ This network provides text messaging, group chats, and weather sensing across th
 
 [Discord](https://discord.gg/Dh75aSAn)
 
+See MaineMesh in action!
+https://meshsense.affirmatech.com/
+
 ## Getting Started
 This guide assumes you already have a Meshtastic-capable device and have completed some basic setup.
 
