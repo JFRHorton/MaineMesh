@@ -1,7 +1,7 @@
 # MaineMesh
 Welcome to the Maine Mesh project! 
 
-We are buildinig a resilient, off-grid communications network using low-cost LoRa radio devices running the Meshtastic software.
+We are building a resilient, off-grid communications network using low-cost LoRa radio devices running the Meshtastic software.
 
 This network provides text messaging, group chats, and weather sensing across the state without the need for internet or cellular access.
 
@@ -10,7 +10,7 @@ This network provides text messaging, group chats, and weather sensing across th
 
 [Facebook](https://www.facebook.com/groups/570190336078767)
 
-[Discord](https://discord.gg/Dh75aSAn)
+[Discord](https://discord.gg/9wF8pAm3)
 
 
 
