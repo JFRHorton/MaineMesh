@@ -8,7 +8,7 @@ This network provides text messaging, group chats, and weather sensing across th
 ## Contact
 [MaineMeshNet@gmail.com](mailto:MaineMeshNet@gmail.com)
 
-[Facebook](https://www.facebook.com/groups/570190336078767)
+[Facebook](https://www.facebook.com/groups/mainemesh)
 
 [Discord](https://discord.gg/9wF8pAm3)
 
