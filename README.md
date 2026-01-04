@@ -10,7 +10,7 @@ This network provides text messaging, group chats, and weather sensing across th
 
 [Facebook](https://www.facebook.com/groups/mainemesh)
 
-[Discord](https://discord.gg/9wF8pAm3)
+[Discord](https://discord.gg/rRGqKcnhVv)
 
 
 
