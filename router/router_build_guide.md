@@ -8,8 +8,8 @@ This is a WIP guide for router construction. During the next batch of router bui
 - [Tempature/Humidity sensor](https://store.rokland.com/products/rak-wireless-rak1901-temperature-and-humidity-sensor-sensirion-shtc3-pid-100001?variant=40510319525971)
 - [4dBi antenna with mounting bracket](https://store.rokland.com/products/4-dbi-helium-hotspot-fiberglass-outdoor-antenna-bracket-mount-for-rak-bobcat-nebra-sensecap?variant=39426681045075)
 - [11.1Wh battery pack](https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lithium-polymer-11-1wh-battery-with-jst-type-ph-2-0-plug?variant=41379793207379)
--[IPEX to N-female bulkhead connector, 2"](https://www.amazon.com/dp/B0C8M7W9XF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
--[Enclosure, 5.9"x3.9"x2.8" ](https://a.co/d/06Wm5Aj)
+- [IPEX to N-female bulkhead connector, 2"](https://www.amazon.com/dp/B0C8M7W9XF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- [Enclosure, 5.9"x3.9"x2.8" ](https://a.co/d/06Wm5Aj)
 
 Consumables
 - [Waterproof tape](https://store.rokland.com/products/tape-helium-antenna-and-coaxial-cable-self-fusing-silicone-heat-water-resistant?variant=39620174250067)
