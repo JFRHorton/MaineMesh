@@ -6,8 +6,6 @@ We are building a resilient, off-grid communications network using low-cost LoRa
 This network provides text messaging, group chats, and weather sensing across the state without the need for internet or cellular access.
 
 ## Contact
-[MaineMeshNet@gmail.com](mailto:MaineMeshNet@gmail.com)
-
 [Facebook](https://www.facebook.com/groups/mainemesh)
 
 [Discord](https://discord.gg/rRGqKcnhVv)
