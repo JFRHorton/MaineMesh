@@ -6,6 +6,8 @@
 | MR4        | MaineMeshRouter04  | Waterville    | Y            | Smoortser@gmail.com    | Solar, 7Wh    |
 | MR5        | MaineMesh05 - WEMA | Windham       | Y            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
 | MR6        | MaineMeshRouter06  | York          | Y            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
+| MLPN       | ML_Portland_North  | Famouth       | Y            | MaineMeshNet@gmail.com | Solar, 11.1Wh |
+
 
 
 
