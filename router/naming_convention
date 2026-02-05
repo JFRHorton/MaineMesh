@@ -1,8 +1,8 @@
-| Role       | Prefix             | Short Name Example| Long Name Example              | Description                        |
-|------------|--------------------|-------------------|--------------------------------|------------------------------------|
-| Router     | MR                 | MR01              | MaineMesh_Router_Portland_West | Primary mesh routing node          |
-| Link       | ML                 | ML01              | MaineMesh_Link_Portland_West   | Fill-in nodes between routers      |
-| Sensor     | MS                 | MS01              | MaineMesh_Sensor_Portland_West | Weather or environmental telemetry |
-| Gateway    | MG                 | MG01              | MaineMesh_Gateway_Portland_West| Administrative bridge              |
+| Role       | Prefix             | Short Name Example| Long Name Example                | Description                        |
+|------------|--------------------|-------------------|----------------------------------|------------------------------------|
+| Router     | MR                 | MR01              | MaineMesh_Router01_Portland_West | Primary mesh routing node          |
+| Link       | ML                 | ML01              | MaineMesh_Link01_Portland_West   | Fill-in nodes between routers      |
+| Sensor     | MS                 | MS01              | MaineMesh_Sensor01_Portland_West | Weather or environmental telemetry |
+| Gateway    | MG                 | MG01              | MaineMesh_Gateway01_Portland_West| Administrative bridge              |
 
 
