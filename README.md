@@ -8,7 +8,8 @@ This network provides text messaging, group chats, and weather sensing across th
 ## Contact
 [Facebook](https://www.facebook.com/groups/mainemesh)
 
-[Discord](https://discord.gg/rRGqKcnhVv)
+[Discord](https://discord.gg/2Uhz4AzB8E)
+
 
 
 
